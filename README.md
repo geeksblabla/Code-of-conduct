@@ -27,9 +27,13 @@ In addition to this Code of Conduct, all Developer Circles Casablanca events are
 
 Harassment includes offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 Participants asked to stop any harassing behavior are expected to comply immediately. Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Meetup organizing staff and other volunteer organizers should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+
 If a participant engages in harassing behavior, the meetup organizers may take any action they deem appropriate, including warning the offender or expulsion from the event.
+
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact immediately Developer circles Casablanca team and let them know.
+
 Organizers will be happy to help participants contact security or local law enforcement, provide escorts to an alternate location, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup. We value your attendance.
+
 We expect participants to follow these rules at our all of our event venues and event-related social events.
 
 The Developer circles Casablanca Community Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 3.0 license. Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects, including:

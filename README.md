@@ -33,11 +33,12 @@ Organizers will be happy to help participants contact security or local law enfo
 We expect participants to follow these rules at our all of our event venues and event-related social events.
 
 The Developer circles Casablanca Community Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 3.0 license. Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects, including:
-[Contributor Covenant](http://contributor-covenant.org/)
-[The Fedora Project](https://getfedora.org/code-of-conduct)
-[OpenStack](https://www.openstack.org/legal/community-code-of-conduct/)
-[Puppet Labs](https://docs.puppetlabs.com/community/community_guidelines.html)
-[Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct)
-[elastic](https://www.elastic.co/community/codeofconduct)
+
++ [Contributor Covenant](http://contributor-covenant.org/)
++ [The Fedora Project](https://getfedora.org/code-of-conduct)
++ [OpenStack](https://www.openstack.org/legal/community-code-of-conduct/)
++ [Puppet Labs](https://docs.puppetlabs.com/community/community_guidelines.html)
++ [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct)
++ [elastic](https://www.elastic.co/community/codeofconduct)
 
 

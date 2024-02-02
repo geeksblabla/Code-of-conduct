@@ -1,6 +1,6 @@
-# Developer Cirlce Casablanca code of conduct
-### TL;DR
-The purpose of our Community Code of Conduct is to ensure that all participants in the Developer Circles Casablanca community have the best possible experience. We are all here to help each other learn, grow our skillsets and have a good time!
+# Geeksblabla code of conduct
+## TL;DR
+The purpose of our Community Code of Conduct is to ensure that all participants in the Geeksblabla community have the best possible experience. We are all here to help each other learn, grow our skill sets, and have a good time!
 
 + Be friendly and welcoming
 + Be considerate
@@ -8,41 +8,217 @@ The purpose of our Community Code of Conduct is to ensure that all participants 
 + Be nice
 + Communicate effectively
 
-### Community code of conduct
+## Community code of conduct
 
-The Developer Circles Casablanca Code of Conduct covers our behavior as members of the community, online or offline (meetups, workshops, hackathons …). As a developer community, diversity is one of our huge strengths, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to, to ensure that The Developer Circles Casablanca community continues to be an excellent space in which to communicate, collaborate, and contribute.
+**Version**: 1.0.0 beta
 
-This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended — a guide to make it easier to be excellent to each other. We expect it to be followed in spirit as much as in the letter.
+**Date**: Saturday, January 27, 2024
 
-+	*Be friendly and welcoming*. We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion and mental and physical ability.
-+	*Be considerate*. Realize that our community members – online and offline – have their own culture, etiquette, and norms, and be respectful of them. Our ethics don’t change in different circumstances, but our decisions might.
-+	*Be patient*. Communities are often built on volunteer time both from participants and organizers. It is possible that your question or suggestion might not receive an immediate response. Be patient and consider the norms of the community. One reminder ping is welcome, many reminder pings in rapid succession are not a good display of patience. Similarly, posting the same question multiple times is frowned upon and should not be done.
-+	*Be respectful*. Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one. We expect members of the community to be respectful when communicating with other community members, as well as with people outside the Developer Circles community.
-+	*Be nice*. Everyone in the Developer Circles Casablanca community should feel welcome, regardless of their background. Please be courteous, respectful and polite to fellow community members. No offensive comments related to gender, gender identity or expression, sexual orientation, disability, physical appearance, body size, race, religion; no sexual images in public spaces, real or implied violence, intimidation, oppression, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, or unwelcome sexual attention will be tolerated.
-+	*Communicate effectively*. We don't all speak the same language at the same skill level. Clear communication can help to avoid misunderstandings, as can remembering that our interpretations of words can be different depending on our backgrounds. Having context is important. It's better to ask for clarification than to make assumptions. Disagreements, social and technical, are normal, but we expect participants in the group to resolve disagreements constructively — so please avoid flamewars, trolling, personal attacks, and repetitive arguments. 
+**Authors**: Geeksblabla <geeksblabla@gmail.com>
 
-In addition to this Code of Conduct, all Developer Circles Casablanca events are governed by the following policy. All attendees, speakers, sponsors and volunteers, including the event organizing team, are required to follow the following policy. Organizers are expected to enforce this policy throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
+**Licence**: Creative Commons Attribution-Share Alike 3.0
 
-### Policy
 
-Harassment includes offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
-Participants asked to stop any harassing behavior are expected to comply immediately. Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Meetup organizing staff and other volunteer organizers should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+### I - About
 
-If a participant engages in harassing behavior, the meetup organizers may take any action they deem appropriate, including warning the offender or expulsion from the event.
+**The** **Community:** GeeksBlaBla is a vibrant community initiative dedicated to fostering a passion for technology and innovation among Moroccans. Spearheaded by a group of passionate tech enthusiasts, GeeksBlaBla aims to bridge the language barrier in the tech realm by disseminating information and engaging discussions in the Moroccan dialect, Darija. Through various platforms, including their YouTube channel, podcasts, and online/offline conferences, GeeksBlaBla brings together tech enthusiasts, professionals, and learners to explore the latest trends, share knowledge, and collaborate on projects. Their mission is to empower Moroccans with the skills and knowledge to become active participants in the global tech landscape.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact immediately Developer circles Casablanca team and let them know.
+The community is the author of many projects that aim to build a unified knowledge-sharing platform for every Moroccan tech fellow: 
 
-Organizers will be happy to help participants contact security or local law enforcement, provide escorts to an alternate location, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup. We value your attendance.
+**The Podcast:**  delves into the world of technology, exploring various topics ranging from software development and web design to artificial intelligence and cybersecurity. Hosted by a team of knowledgeable individuals, the podcast caters to both tech novices and enthusiasts, providing insights and practical tips that can be applied in various tech-related fields.
 
-We expect participants to follow these rules at our all of our event venues and event-related social events.
+**Awesome-Morocco:**  serves as a comprehensive directory of Moroccan tech resources, showcasing the vibrant tech ecosystem in the country. The platform features a curated list of Moroccan tech companies, startups, communities, events, and resources, providing a centralized hub for anyone seeking to connect with the Moroccan tech community.
 
-The Developer circles Casablanca Community Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 3.0 license. Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects, including:
+**Stateofdev.ma:** this is an annual survey that sheds light on the state of technology in Morocco. The survey gathers data from Moroccan tech professionals, providing valuable insights into trends, challenges, and opportunities within the Moroccan tech industry. The findings of the survey are instrumental in understanding the evolving needs and aspirations of the Moroccan tech community, allowing GeeksBlaBla to tailor its initiatives to address these needs and contribute to the growth of the Moroccan tech landscape.
 
-+ [Contributor Covenant](http://contributor-covenant.org/)
-+ [The Fedora Project](https://getfedora.org/code-of-conduct)
-+ [OpenStack](https://www.openstack.org/legal/community-code-of-conduct/)
-+ [Puppet Labs](https://docs.puppetlabs.com/community/community_guidelines.html)
-+ [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct)
-+ [elastic](https://www.elastic.co/community/codeofconduct)
+**BlablaConf:** is a hybrid annual tech conference organized by GeeksBlaBla to bring together the Moroccan tech community and connect them with international experts and thought leaders. The conference features a diverse range of talks, workshops, and networking opportunities, covering a wide spectrum of tech topics. Blablaconf has become a significant platform for showcasing the Moroccan tech ecosystem and fostering collaboration and knowledge exchange within the community.
+
+### I - **Values**
+
+1. **Passion for Technology:** GeeksBlaBla is driven by a deep passion for technology and its transformative power. We are committed to exploring and embracing the latest technological advancements and empowering others to do the same.
+2. **Collaboration and Partnership:** We believe in the power of collaboration to achieve great things. We partner with other organizations, businesses, and individuals to amplify our impact and create a more vibrant tech ecosystem in Morocco.
+3. **Empathy:** GeeksBlaBla recognizes that technology should be used to enhance human lives, not to replace them. They strive to create products and services that are user-centered and that meet the needs of real people.
+4. **Responsibility:** GeeksBlaBla takes seriously the ethical implications of technology. They are committed to using technology in a way that is responsible, ethical, and sustainable.
+5. **Inclusivity:** GeeksBlaBla believes that everyone should have the opportunity to participate in the tech community. They are committed to creating a welcoming and inclusive environment for people of all backgrounds and abilities.
+6. **Openness and Transparency:** We are committed to open communication and transparency. We believe that building trust and respect is essential for a thriving community. (See **Funding and Partnerships** section: III → 3 → E)
+
+# III - Code of Conduct
+
+#### 1 - Our Pledge:
+
+As a member of the GeeksBlaBla community, I pledge to:
+
+- **Embrace technology with passion and responsibility.**
+- **Contribute to the growth and success of the Moroccan tech ecosystem.**
+- **Share knowledge and empower others to learn and grow.**
+- **Collaborate with fellow tech enthusiasts to create innovative solutions.**
+- **Promote diversity, inclusion, and accessibility in the tech community.**
+- **Uphold the highest ethical standards in the use of technology.**
+- **Embody the values of empathy, responsibility, and inclusivity.**
+
+By adhering to this pledge, we can collectively shape a more vibrant, equitable, and impactful tech community in Morocco and beyond.
+
+#### 2 - Our Scope:
+
+**A) GeeksBlaBla as an NGO**
+
+GeeksBlaBla could operate as a registered non-governmental organization (NGO) to formalize its operations and structure, enabling it to secure funding, collaborate with other organizations, and gain recognition as a legitimate community-driven initiative (WIP).
+
+**B) Mission and Vision**
+
+GeeksBlaBla's mission could be to foster a vibrant and inclusive tech community in Morocco, empowering Moroccans to become active participants in the global tech landscape. Its vision could be to make Morocco a hub for innovation and technology, where Moroccan talent can thrive and contribute to the development of the country and beyond.
+
+**C) Governance and Structure**
+
+GeeksBlaBla could establish a board of directors composed of experienced individuals from the tech and community development sectors. The board would oversee the organization's operations, ensuring adherence to its mission and vision, and making strategic decisions to advance its goals.
+
+**D) Programs and Initiatives**
+
+GeeksBlaBla could continue its existing initiatives, such as the podcast, Awesome-Morocco, Stateofdev, and Blablaconf, while expanding its program offerings to include:
+
+- **Tech education and training:** Provide workshops, bootcamps, and online courses to equip Moroccans with the skills and knowledge they need to succeed in the tech industry.
+- **Mentorship and networking opportunities:** Connect aspiring tech professionals with experienced mentors and foster a network of tech enthusiasts and entrepreneurs.
+- **Tech community events and workshops:** Organize regular meetups, hackathons, and workshops to promote collaboration, knowledge sharing, and innovation within the tech community.
+- **Research and advocacy:** Conduct research on the Moroccan tech landscape and advocate for policies that support the growth and development of the tech sector.
+
+**E) Funding and Partnerships**
+
+GeeksBlaBla could seek funding from various sources, including:
+
+- **Corporate sponsorships:** Partner with tech companies and businesses to support its initiatives and gain exposure to the Moroccan tech community.
+- **Grants and donations:** Apply for grants from foundations, government agencies, and international organizations that support tech education, entrepreneurship, and community development.
+- **Crowdfunding campaigns:** Engage the tech community and the public to support GeeksBlaBla's mission through crowdfunding campaigns.
+- **Partnerships with universities and tech hubs:** Collaborate with universities, tech hubs, and other organizations to expand its reach and impact.
+
+By structuring itself as an NGO, GeeksBlaBla can streamline its operations, secure funding, and establish itself as a leading force in driving Morocco's tech ecosystem forward.
+
+GeeksBlaBla could also consider publishing accounting reports annually to enhance transparency and accountability. These reports could provide insights into the organization's financial health, fundraising efforts, and program expenditures. This information would be valuable to potential donors, partners, and the public, demonstrating the organization's financial responsibility and commitment to its mission. By publishing regular accounting reports, GeeksBlaBla can foster trust and credibility among its stakeholders and contribute to a more transparent and accountable NGO sector in Morocco.
+
+By publishing annual accounting reports, GeeksBlaBla can strengthen its commitment to transparency and accountability, demonstrating its dedication to upholding the highest ethical standards and building a strong foundation for sustainable growth.
+
+#### 3 - Copyright and Attribution
+
+GeeksBlaBla Community Attribution and Copyright Guidelines
+
+**Purpose**
+
+These guidelines are intended to clarify and protect the rights of the GeeksBlaBla community regarding the attribution and copyright of content generated within the community.
+
+**Attribution**
+
+All content shared within the GeeksBlaBla community, including but not limited to text, images, code, and videos, should be properly attributed to the original creator (Geeksblabla). This means including a link to the original source or providing credit to the author (Geeksblabla). By attributing content, we can ensure that creators are recognized for their work and that their intellectual property is respected.
+
+**Copyright**
+
+All content created within the GeeksBlaBla community is owned by the original creator (GeeksBlabla). This means that the creator has the exclusive right to reproduce, distribute, display, and create derivative works from their content. Users of the GeeksBlaBla community are free to share and remix content, provided that they adhere to the following guidelines:
+
+- **Non-commercial use:** Content may be shared and remixed for non-commercial purposes only.
+- **Proper attribution:** Users must properly attribute the original creator of the content.
+- **Non-derivative works:** Users may not create derivative works from the content without the express permission of the original creator.
+- **Respect for copyright:** Users must respect the copyright of the original creator and avoid using their content in a way that could infringe upon their rights.
+
+**Exceptions**
+
+The following exceptions apply to these guidelines:
+
+- **Fair use:** Under certain limited circumstances, content may be used without attribution or permission for purposes such as criticism, commentary, news reporting, teaching, scholarship, or research.
+- **Public domain:** Content that is in the public domain may be used without attribution or permission.
+
+**Enforcement**
+
+GeeksBlaBla reserves the right to review and remove content that is not attributed or copyrighted properly. Users who repeatedly violate these guidelines may be banned from the community.
+
+**Additional Resources**
+
+For more information on copyright law, please visit the following websites:
+
+- United States Copyright Office: http://www.ompic.ma/en
+- Creative Commons: https://creativecommons.org/
+
+#### 4 - **Conflict Resolution**
+
+GeeksBlaBla Community Conflict Resolution Policy
+
+**Purpose**
+
+The purpose of this policy is to establish a fair and equitable process for resolving conflicts that arise within the GeeksBlaBla community. This policy aims to ensure that all members of the community are treated with respect and that their concerns are heard and addressed.
+
+**Scope**
+
+This policy applies to all members of the GeeksBlaBla community, including but not limited to moderators, administrators, and regular users. It applies to all forms of communication within the community, including but not limited to online forums, chat rooms, and social media groups.
+
+**Types of Conflicts**
+
+This policy covers a wide range of conflicts, including but not limited to:
+
+- Harassment or bullying
+- Discrimination or hate speech
+- Intellectual property infringement
+- Copyright violations
+- Misrepresentation of facts
+- Defamation or libel
+
+**Resolution Process**
+
+The GeeksBlaBla community will use a multi-step process to resolve conflicts. The first step will be to encourage the parties involved to resolve the conflict directly. If they are unable to do so, the conflict will be escalated to a moderator or administrator. Moderators and administrators will use their discretion to determine the most appropriate course of action, which may include:
+
+- Mediation
+- Arbitration
+- Suspension or expulsion from the community
+
+**Appeals**
+
+Members of the GeeksBlaBla community have the right to appeal any decision made by a moderator or administrator. Appeals will be reviewed by a panel of community members.
+
+**Communication**
+
+GeeksBlaBla will communicate all decisions related to conflict resolution clearly and transparently. Members of the community will be informed of the reasons for any decisions and will have an opportunity to provide feedback.
+
+**Enforcement**
+
+GeeksBlaBla will take all necessary steps to enforce its conflict resolution policy. This may include warning offenders, suspending or expelling them from the community, or taking legal action.
+
+**Reporting Conflicts**
+
+If you are aware of a conflict that is violating this policy, please report it to a moderator or administrator as soon as possible using this email <geeksblabla@gmail.com>. You can do so by sending a private message or by using the community's reporting tool.
+
+## 5 - **Hiring, Firing, and Resignation Policies**
+
+GeeksBlaBla Community Hiring, Firing, and Resignation Policies
+
+**Purpose**
+
+The purpose of these policies is to establish clear and transparent guidelines for hiring, firing, and resigning within the GeeksBlaBla community. These policies aim to ensure that all members of the community are treated fairly and equitably, regardless of their role or seniority.
+
+**Hiring**
+
+When hiring new members to the community, GeeksBlaBla will focus on finding individuals who are passionate about technology, have a strong work ethic, and are committed to the community's values and mission. The hiring process will include:
+
+- **Application review:** Applicants will be evaluated based on their qualifications, experience, and fit with the community's culture.
+- **Onboarding:** Make sure the new members have all the necessary access and understand the tasks, Generally the onboarding part will be with an experienced member.
+
+**Firing**
+
+GeeksBlaBla reserves the right to terminate the membership of any member who violates the community's policies or who is deemed to be a liability to the community. The firing process will include:
+
+- **Documentation:** Evidence of the member's violation of the community's policies will be documented.
+- **Warning:** The member will receive a written/verbal warning about their behavior.
+- **Termination:** If the member continues to violate the community's policies after receiving a written warning, their membership will be terminated.
+
+Also, the team reserves the right to fire a member if more than 70% of the core team agrees on the decision.
+
+**Resignation**
+
+Members of the GeeksBlaBla community are free to resign at any time. However, the member must follow the offboarding process and return all community-owned access and/or gadgets.
+
+**Reporting Concerns**
+
+If you are aware of any concerns regarding hiring, firing, or resignation within the GeeksBlaBla community, please report them to the community's moderators or administrators. You can do so by sending a private message or by using the community's reporting tool.
+
+
+By following these policies, we can help to create a fair and equitable community for all members of the GeeksBlaBla community.
+
+
+
 
 

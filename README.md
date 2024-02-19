@@ -37,9 +37,9 @@ The community is the author of many projects that aim to build a unified knowled
 
 1. **Passion for Technology:** GeeksBlaBla is driven by a deep passion for technology and its transformative power. We are committed to exploring and embracing the latest technological advancements and empowering others to do the same.
 2. **Collaboration and Partnership:** We believe in the power of collaboration to achieve great things. We partner with other organizations, businesses, and individuals to amplify our impact and create a more vibrant tech ecosystem in Morocco.
-3. **Empathy:** GeeksBlaBla recognizes that technology should be used to enhance human lives, not to replace them. They strive to create products and services that are user-centered and that meet the needs of real people.
-4. **Responsibility:** GeeksBlaBla takes seriously the ethical implications of technology. They are committed to using technology in a way that is responsible, ethical, and sustainable.
-5. **Inclusivity:** GeeksBlaBla believes that everyone should have the opportunity to participate in the tech community. They are committed to creating a welcoming and inclusive environment for people of all backgrounds and abilities.
+3. **Empathy:** GeeksBlaBla recognizes that technology should be used to enhance human lives, not to replace them. We strive to create products and services that are user-centered and that meet the needs of real people.
+4. **Responsibility:** GeeksBlaBla takes ethical implications of technology very seriously. We are committed to using technology in a way that is responsible, ethical, and sustainable.
+5. **Inclusivity:** GeeksBlaBla believes that everyone should have the opportunity to participate in the tech community. we are committed to creating a welcoming and inclusive environment for people of all backgrounds and abilities.
 6. **Openness and Transparency:** We are committed to open communication and transparency. We believe that building trust and respect is essential for a thriving community. (See **Funding and Partnerships** section: III → 3 → E)
 
 # III - Code of Conduct
@@ -62,19 +62,19 @@ By adhering to this pledge, we can collectively shape a more vibrant, equitable,
 
 **A) GeeksBlaBla as an NGO**
 
-GeeksBlaBla could operate as a registered non-governmental organization (NGO) to formalize its operations and structure, enabling it to secure funding, collaborate with other organizations, and gain recognition as a legitimate community-driven initiative (WIP).
+GeeksBlaBla operates as a registered non-governmental organization (NGO) to formalize its operations and structure, enabling it to secure funding, collaborate with other organizations, and gain recognition as a legitimate community-driven initiative (WIP).
 
 **B) Mission and Vision**
 
-GeeksBlaBla's mission could be to foster a vibrant and inclusive tech community in Morocco, empowering Moroccans to become active participants in the global tech landscape. Its vision could be to make Morocco a hub for innovation and technology, where Moroccan talent can thrive and contribute to the development of the country and beyond.
+GeeksBlaBla's mission is to foster a vibrant and inclusive tech community in Morocco, empowering Moroccans to become active participants in the global tech landscape. Its vision is to make Morocco a hub for innovation and technology, where Moroccan talent can thrive and contribute to the development of their country and beyond.
 
 **C) Governance and Structure**
 
-GeeksBlaBla could establish a board of directors composed of experienced individuals from the tech and community development sectors. The board would oversee the organization's operations, ensuring adherence to its mission and vision, and making strategic decisions to advance its goals.
+GeeksBlaBla is establishing a board of directors composed of experienced individuals from the tech and community development sectors. The board oversees the organization's operations, ensuring adherence to its mission and vision, and making strategic decisions to advance its goals.
 
 **D) Programs and Initiatives**
 
-GeeksBlaBla could continue its existing initiatives, such as the podcast, Awesome-Morocco, Stateofdev, and Blablaconf, while expanding its program offerings to include:
+GeeksBlaBla continues its existing initiatives, such as the podcast, Awesome-Morocco, Stateofdev, and Blablaconf, while expanding its program offerings to include:
 
 - **Tech education and training:** Provide workshops, bootcamps, and online courses to equip Moroccans with the skills and knowledge they need to succeed in the tech industry.
 - **Mentorship and networking opportunities:** Connect aspiring tech professionals with experienced mentors and foster a network of tech enthusiasts and entrepreneurs.
@@ -83,18 +83,18 @@ GeeksBlaBla could continue its existing initiatives, such as the podcast, Awesom
 
 **E) Funding and Partnerships**
 
-GeeksBlaBla could seek funding from various sources, including:
+GeeksBlaBla seeks funding from various sources, including:
 
-- **Corporate sponsorships:** Partner with tech companies and businesses to support its initiatives and gain exposure to the Moroccan tech community.
-- **Grants and donations:** Apply for grants from foundations, government agencies, and international organizations that support tech education, entrepreneurship, and community development.
-- **Crowdfunding campaigns:** Engage the tech community and the public to support GeeksBlaBla's mission through crowdfunding campaigns.
-- **Partnerships with universities and tech hubs:** Collaborate with universities, tech hubs, and other organizations to expand its reach and impact.
+- **Corporate sponsorships:** Partnering with tech companies and businesses to support its initiatives and gain exposure to the Moroccan tech community.
+- **Grants and donations:** Applying for grants from foundations, government agencies, and international organizations that support tech education, entrepreneurship, and community development.
+- **Crowdfunding campaigns:** Engaging the tech community and the public to support GeeksBlaBla's mission through crowdfunding campaigns.
+- **Partnerships with universities and tech hubs:** Collaborating with universities, tech hubs, and other organizations to expand its reach and impact.
 
 By structuring itself as an NGO, GeeksBlaBla can streamline its operations, secure funding, and establish itself as a leading force in driving Morocco's tech ecosystem forward.
 
-GeeksBlaBla could also consider publishing accounting reports annually to enhance transparency and accountability. These reports could provide insights into the organization's financial health, fundraising efforts, and program expenditures. This information would be valuable to potential donors, partners, and the public, demonstrating the organization's financial responsibility and commitment to its mission. By publishing regular accounting reports, GeeksBlaBla can foster trust and credibility among its stakeholders and contribute to a more transparent and accountable NGO sector in Morocco.
+GeeksBlaBla also considers publishing accounting reports annually to enhance transparency and accountability. These reports provides insights into the organization's financial health, fundraising efforts, and program expenditures. We believe this information is valuable to potential donors, partners, and the public, demonstrating the organization's financial responsibility and commitment to its mission. By publishing regular accounting reports, GeeksBlaBla fosters trust and credibility among its stakeholders and contribute to a more transparent and accountable NGO sector in Morocco.
 
-By publishing annual accounting reports, GeeksBlaBla can strengthen its commitment to transparency and accountability, demonstrating its dedication to upholding the highest ethical standards and building a strong foundation for sustainable growth.
+By publishing annual accounting reports, GeeksBlaBla strengthens its commitment to transparency and accountability, demonstrating its dedication to upholding the highest ethical standards and building a strong foundation for sustainable growth.
 
 #### 3 - Copyright and Attribution
 
@@ -132,7 +132,7 @@ GeeksBlaBla reserves the right to review and remove content that is not attribut
 
 For more information on copyright law, please visit the following websites:
 
-- United States Copyright Office: http://www.ompic.ma/en
+- Moroccan Office of Industrial and Commercial Property: http://www.ompic.ma/en
 - Creative Commons: https://creativecommons.org/
 
 #### 4 - **Conflict Resolution**

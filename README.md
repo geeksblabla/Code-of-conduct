@@ -92,7 +92,7 @@ GeeksBlaBla seeks funding from various sources, including:
 
 By structuring itself as an NGO, GeeksBlaBla can streamline its operations, secure funding, and establish itself as a leading force in driving Morocco's tech ecosystem forward.
 
-GeeksBlaBla also considers publishing accounting reports annually to enhance transparency and accountability. These reports provides insights into the organization's financial health, fundraising efforts, and program expenditures. We believe this information is valuable to potential donors, partners, and the public, demonstrating the organization's financial responsibility and commitment to its mission. By publishing regular accounting reports, GeeksBlaBla fosters trust and credibility among its stakeholders and contribute to a more transparent and accountable NGO sector in Morocco.
+GeeksBlaBla also considers publishing accounting reports annually to enhance transparency and accountability. These reports provide insights into the organization's financial health, fundraising efforts, and program expenditures. We believe this information is valuable to potential donors, partners, and the public, demonstrating the organization's financial responsibility and commitment to its mission. By publishing regular accounting reports, GeeksBlaBla fosters trust and credibility among its stakeholders and contribute to a more transparent and accountable NGO sector in Morocco.
 
 By publishing annual accounting reports, GeeksBlaBla strengthens its commitment to transparency and accountability, demonstrating its dedication to upholding the highest ethical standards and building a strong foundation for sustainable growth.
 

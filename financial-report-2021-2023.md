@@ -50,7 +50,7 @@ This report covers only the direct sponsoring part.
 | ---------------------- | --------------- |
 | **Total income**       | **120 538 MAD** |
 | **Total expenses**     | **110 100 MAD** |
-| **Balance**            | **10 538 MAD**  |
+| **Balance**            | **10 438 MAD**  |
 
 
 ## **Goals for 2024**
